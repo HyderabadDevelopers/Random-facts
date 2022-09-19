@@ -1,5 +1,9 @@
-#RandomFacts
+# RandomFacts
 
-A simple application made using Vue.js and RandomFacts API. 
+A simple web application that fetches a new fact everytime with a new click.
+
+## Technologies used
+> Vue.js
+> RandomFacts API. 
   
 	
